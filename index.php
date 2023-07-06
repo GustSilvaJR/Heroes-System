@@ -21,7 +21,7 @@
 
 <body>
     <section class="d-flex justify-content-center flex-row align-items-center" id="loginBody">
-        <div class="d-flex justify-content-center flex-row align-items-center" id="loginFormBody">
+        <div class="d-flex justify-content-center flex-row align-items-center" style="color: white;" id="loginFormBody">
             <div id="form">
                 <form action="login.php" method="POST">
                     <div class="mb-3">
