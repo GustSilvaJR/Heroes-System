@@ -45,10 +45,10 @@
                     ?>
                         <div class="mb-3 form-check">
                         <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                        <label class="form-check-label" for="exampleCheck1">Lembre-me</label>
+                        <label class="form-check-label" style="color: white;" for="exampleCheck1">Lembre-me</label>
                     </div>
                     <div class="d-flex flex-row justify-content-end">
-                        <button type="submit" class="btn btn-primary">Entrar</button>
+                        <button type="submit" class="btn btn-primary">Entrar Teste</button>
                     </div>
                 </form>
             </div>
